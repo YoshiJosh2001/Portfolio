@@ -9,3 +9,5 @@ This portfolio is a collection of all the code I have done up until 18 September
 It contains a HTML/CSS website I had made in 2017 for a school project. The website was remastered in 2019.
 
 This portfolio also contains a Java program to calculate Dry Cleaner costs I made in 2019, and a Air Conditioner build information entry system I made in 2019.
+
+Within each project there will be a small README that describes what the project should do.
